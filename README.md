@@ -1,2 +1,3 @@
 # dummy-rep
-testing out and learning github
+My dummy repository for testing and learning github.
+Not a bad idear ;)
