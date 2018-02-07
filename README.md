@@ -24,3 +24,8 @@ Not a bad idear ;)
 ## gettin
 # bigger!
 [a link to Hello World](hello.html)
+
+```javascript
+var foo = "syntax highlighting for JS";
+alert(foo);
+```
